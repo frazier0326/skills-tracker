@@ -68,4 +68,5 @@ public class SkillsController {
                 "</body>" +
                 "</html>";
     }
+
 }
